@@ -2,9 +2,12 @@
 
 This is a fill-in-the-blanks template for a minimum viable API portal that contains a getting started guide and a API reference documentation. Replace all of the [prompts in brackets] with content that's specific to your API. When you've replaced all the bracketed prompts, you'll have the essentials documented sufficiently to help people use your API.
 
-If something in this template doesn't make sense for your API, delete it! And likewise, add any sections you need based on your API's particulars. We hope our suggestions in this template will spark more ideas about documenting features of your API to help users consume it. Hello world
+Hello World
+
+Foo Bar
 
 I heard a word from 'on high'
+
 Glare like a light in the sky
 It said
 "Quit blowing each other up"
