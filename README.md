@@ -2,46 +2,7 @@
 
 This is a fill-in-the-blanks template for a minimum viable API portal that contains a getting started guide and a API reference documentation. Replace all of the [prompts in brackets] with content that's specific to your API. When you've replaced all the bracketed prompts, you'll have the essentials documented sufficiently to help people use your API.
 
-If something in this template doesn't make sense for your API, delete it! And likewise, add any sections you need based on your API's particulars. We hope our suggestions in this template will spark more ideas about documenting features of your API to help users consume it. Hello world
-
-I heard a word from 'on high'
-Glare like a light in the sky
-It said
-"Quit blowing each other up"
-A voicing so crystalline clear so
-Something's unclean in your ear
-When only blood fills your cup
-Hello
-I'm trying to focus
-But my eyes deceive me
-Focus
-I'm witnessing history
-Repeating
-It fell like a tear from my eye
-Flying machine so up high
-Well, There goes the neighborhood
-A scene set to singe innocence
-Upheave, unhinge and pit against
-Like every made for TV movie should
-Hello
-I'm trying to focus
-But my eyes deceive me
-Focus
-I'm witnessing history
-Repeating
-Focus, focus, focus
-Focus (I can see now)
-Focus (I can see now)
-Focus (I can see now)
-We are, we know, we see, we think for you
-The who, the what, the when, the where, the why
-We build your hill, we build you too, we see you
-Hello
-I'm trying to focus
-But my eyes deceive me
-Focus
-I'm witnessing history
-Repeating
+If something in this template doesn't make sense for your API, delete it! And likewise, add any sections you need based on your API's particulars. We hope our suggestions in this template will spark more ideas about documenting features of your API to help users consume it.
 
 Here's the template demo page: [https://launchany.github.io/mvp-template/](https://launchany.github.io/mvp-template/).
 
